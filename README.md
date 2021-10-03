@@ -1,6 +1,6 @@
-# What is Py Calculator?
-PyCalculator is a Python calculator.
-# Why PyCalculator?
-PyCalculator is cleaner and designed with more features.
-# Who are the creators of PyCalculator?
+# What is PyCalculate?
+PyCalculate is a Python Calculate.
+# Why PyCalculate?
+PyCalculate is cleaner and designed with more features.
+# Who are the creators of PyCalculate?
 ...
